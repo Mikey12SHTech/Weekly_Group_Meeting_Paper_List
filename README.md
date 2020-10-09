@@ -1,7 +1,10 @@
 # Weekly Group Meeting Paper List (2020)
 
 组会顺序: 组1：金磊 许家乐 钱一成 胡俊豪；组2：刘闻 罗伟鑫 涂治；组3：徐衍钰 廉东泽 赵子伯；组4：肖宇廷 周康  李晶；组5：钱深瀚，陈夏宁，王佩瑶 
-
+| Date | Speaker | Slides/Paper | Publisher | Website / Code |
+| ---- | ------- | ----- | --------- | -------------- |
+| 2020-10-09 | 赵子伯 | [Image inpainting in CVPR20 & ECCV20](./slides/1009_groupmeeting.pptx) | CVPR 2020 & ECCV2020 |
+|
 | Date | Speaker | Slides/Paper | Publisher | Website / Code |
 | ---- | ------- | ----- | --------- | -------------- |
 | 2020-09-25 | 刘闻 | [DeepCap](./slides/deepcap.pptx) | CVPR 2020 |
